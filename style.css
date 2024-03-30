@@ -400,7 +400,7 @@ a:hover, a:active, a:focus {
 
 #about .team-thumb .image-holder {
   position: relative;
-  top: 40px;
+  top: 60px;
   display: inline-block;
   margin-bottom: 40px;
   padding: 10px;
@@ -411,7 +411,7 @@ a:hover, a:active, a:focus {
 #about .team-thumb .heading {
   font-weight: bold;
   position: relative;
-  top: 10px;
+  top: 20px;
   -webkit-transition: all 600ms cubic-bezier(0.68, -0.55, 0.265, 1.55);
   transition: all 600ms cubic-bezier(0.68, -0.55, 0.265, 1.55);
 }
